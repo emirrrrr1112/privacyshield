@@ -1,0 +1,201 @@
+student_id,first_name,last_name,email,phone,address,major,enrollment_year,gpa,notes
+U14533765,Priya,Smith,priya.smith@students.example.edu,(257) 845-7819,"403 Maple Street, Worcester, MA",Biology,2021,2.04,"Priya moved to 403 Maple Street, Worcester, MA; update records."
+U11709388,Diego,Suzuki,diego.suzuki@students.example.edu,(427) 958-1931,"552 Spruce Boulevard, Cambridge, MA",Mechanical Engineering,2023,2.51,Diego Suzuki reached out via diego.suzuki@students.example.edu about the DS+X club.
+U82721167,Liang,Rahman,liang.rahman@students.example.edu,(316) 440-8712,"819 Spruce Boulevard, Lowell, MA",Mechanical Engineering,2023,3.49,"Advising note: Liang Rahman is excelling, recommend TA role."
+U79802283,Liang,Suzuki,liang.suzuki@students.example.edu,(400) 796-2872,,Computer Science,2023,3.18,No concerns this term.
+U17857781,Amara,Okafor,amara.okafor@students.example.edu,(241) 523-8002,"484 Birch Lane, Springfield, MA",Biology,2023,2.34,Amara Okafor reached out via amara.okafor@students.example.edu about the DS+X club.
+U14971794,Noah,Nguyen,noah.nguyen@students.example.edu,(465) 313-5056,"781 Spruce Boulevard, Cambridge, MA",History,2024,3.8,Noah Nguyen reached out via noah.nguyen@students.example.edu about the DS+X club.
+U86778819,Oscar,Chen,oscar.chen@students.example.edu,,"587 Oak Avenue, Amherst, MA",Computer Science,2024,3.28,Oscar Chen reached out via oscar.chen@students.example.edu about the DS+X club.
+U77216238,Marcus,Garcia,,(587) 542-2624,,Biology,2022,3.31,Marcus Garcia reached out via marcus.garcia@students.example.edu about the DS+X club.
+U29679063,Alice,Chen,alice.chen@students.example.edu,(308) 950-6497,"970 Willow Way, Worcester, MA",Psychology,2021,3.61,Left voicemail for Alice at (308) 950-6497 regarding tuition.
+U59801592,Priya,Rahman,priya.rahman@students.example.edu,(313) 835-8581,"124 Cedar Drive, Springfield, MA",Mechanical Engineering,2022,3.87,Met with Priya Rahman about the capstone; follow up at priya.rahman@students.example.edu.
+U27340290,Hana,Suzuki,hana.suzuki@students.example.edu,,"851 Maple Street, Amherst, MA",Psychology,2022,2.44,Hana Suzuki reached out via hana.suzuki@students.example.edu about the DS+X club.
+U71269734,Noah,Johnson,,(533) 492-1564,,Biology,2021,,Student U71269734 requested an extension; call guardian at (533) 492-1564.
+U14739184,Alice,Garcia,,(803) 577-3816,"636 Elm Road, Lowell, MA",Computer Science,2023,3.15,Left voicemail for Alice at (803) 577-3816 regarding tuition.
+U28684756,Alice,Suzuki,alice.suzuki@students.example.edu,,"255 Birch Lane, Cambridge, MA",Data Science,2021,2.39,
+U27340290,Hana,Suzuki,hana.suzuki@students.example.edu,(565) 589-6085,"851 Maple Street, Amherst, MA",Computer Science,2021,3.74,"Advising note: Hana Suzuki is excelling, recommend TA role."
+U12291982,Sophie,Johnson,sophie.johnson@students.example.edu,(806) 514-7942,,Computer Science,2022,2.63,Left voicemail for Sophie at (806) 514-7942 regarding tuition.
+U64013250,Oscar,Muller,oscar.muller@students.example.edu,,"836 Maple Street, Lowell, MA",Psychology,2022,2.97,Oscar Muller reached out via oscar.muller@students.example.edu about the DS+X club.
+U67745743,Diego,Suzuki,diego.suzuki@students.example.edu,(264) 667-1051,,Psychology,2022,,"Diego moved to 401 Willow Way, Lowell, MA; update records."
+U98575219,Diego,Petrov,diego.petrov@students.example.edu,(949) 893-2160,"673 Birch Lane, Worcester, MA",Computer Science,2022,3.16,No concerns this term.
+U67061834,Liang,Suzuki,liang.suzuki@students.example.edu,,"573 Elm Road, Lowell, MA",Mechanical Engineering,2021,2.96,Left voicemail for Liang at (670) 422-3613 regarding tuition.
+U81347891,Oscar,Garcia,oscar.garcia@students.example.edu,(861) 402-6688,"802 Cedar Drive, Lowell, MA",Biology,2024,2.12,Oscar Garcia reached out via oscar.garcia@students.example.edu about the DS+X club.
+U28684756,Alice,Suzuki,alice.suzuki@students.example.edu,(540) 772-8052,"255 Birch Lane, Cambridge, MA",History,2022,3.63,Alice Suzuki reached out via alice.suzuki@students.example.edu about the DS+X club.
+U86410147,Amara,Nguyen,amara.nguyen@students.example.edu,(976) 785-7902,"818 Maple Street, Cambridge, MA",Data Science,2022,3.78,Met with Amara Nguyen about the capstone; follow up at amara.nguyen@students.example.edu.
+U14739184,Alice,Garcia,alice.garcia@students.example.edu,(803) 577-3816,"636 Elm Road, Lowell, MA",Psychology,2024,2.38,Left voicemail for Alice at (803) 577-3816 regarding tuition.
+U76171250,Marcus,Petrov,marcus.petrov@students.example.edu,(443) 536-9937,"146 Oak Avenue, Amherst, MA",Computer Science,2023,3.29,Met with Marcus Petrov about the capstone; follow up at marcus.petrov@students.example.edu.
+U66713732,Hana,Smith,hana.smith@students.example.edu,(283) 630-5542,"492 Birch Lane, Springfield, MA",Economics,2023,3.75,No concerns this term.
+U90920341,Alice,Nguyen,,(978) 805-2677,,Data Science,2022,3.2,
+U11709388,Diego,Suzuki,diego.suzuki@students.example.edu,(427) 958-1931,"552 Spruce Boulevard, Cambridge, MA",Computer Science,2021,2.69,Student U11709388 requested an extension; call guardian at (427) 958-1931.
+U17154800,Alice,Smith,alice.smith@students.example.edu,,"757 Elm Road, Amherst, MA",Mechanical Engineering,2023,3.51,Student U17154800 requested an extension; call guardian at (366) 471-6720.
+U23282535,Hana,Lindqvist,hana.lindqvist@students.example.edu,(798) 935-3091,"118 Willow Way, Lowell, MA",History,2023,3.01,Left voicemail for Hana at (798) 935-3091 regarding tuition.
+U71269734,Noah,Johnson,noah.johnson@students.example.edu,(533) 492-1564,"853 Birch Lane, Worcester, MA",Psychology,2022,2.78,"Noah moved to 853 Birch Lane, Worcester, MA; update records."
+U12291982,Sophie,Johnson,sophie.johnson@students.example.edu,(806) 514-7942,"389 Pine Court, Worcester, MA",Psychology,2022,2.04,"Sophie moved to 389 Pine Court, Worcester, MA; update records."
+U67754841,Ivan,Muller,ivan.muller@students.example.edu,(705) 759-9878,"303 Pine Court, Cambridge, MA",Computer Science,2023,3.4,Ivan Muller reached out via ivan.muller@students.example.edu about the DS+X club.
+U91203203,Ivan,Suzuki,,(373) 241-2970,,Data Science,2024,2.28,Student U91203203 requested an extension; call guardian at (373) 241-2970.
+U66713732,Hana,Smith,hana.smith@students.example.edu,(283) 630-5542,,Data Science,2024,2.55,No concerns this term.
+U91203203,Ivan,Suzuki,ivan.suzuki@students.example.edu,(373) 241-2970,"934 Birch Lane, Cambridge, MA",Economics,2021,2.99,
+U17154800,Alice,Smith,alice.smith@students.example.edu,(366) 471-6720,"757 Elm Road, Amherst, MA",Computer Science,2021,2.16,"Alice moved to 757 Elm Road, Amherst, MA; update records."
+U43965454,Fatima,Garcia,fatima.garcia@students.example.edu,(302) 631-3702,"923 Maple Street, Amherst, MA",Mechanical Engineering,2021,3.68,"Fatima moved to 923 Maple Street, Amherst, MA; update records."
+U59801592,Priya,Rahman,priya.rahman@students.example.edu,(313) 835-8581,"124 Cedar Drive, Springfield, MA",History,2023,3.96,"Advising note: Priya Rahman is excelling, recommend TA role."
+U45887396,Ivan,Garcia,ivan.garcia@students.example.edu,(655) 214-4621,"636 Spruce Boulevard, Cambridge, MA",Economics,2024,2.02,
+U67061834,Liang,Suzuki,,(670) 422-3613,"573 Elm Road, Lowell, MA",Psychology,2022,3.0,No concerns this term.
+U63113322,Ivan,Rahman,ivan.rahman@students.example.edu,(825) 895-6917,"301 Oak Avenue, Springfield, MA",Data Science,2021,3.07,Left voicemail for Ivan at (825) 895-6917 regarding tuition.
+U71604027,Fatima,Garcia,fatima.garcia@students.example.edu,(502) 421-2501,"106 Birch Lane, Springfield, MA",History,2023,,"Fatima moved to 106 Birch Lane, Springfield, MA; update records."
+U29679063,Alice,Chen,alice.chen@students.example.edu,(308) 950-6497,"970 Willow Way, Worcester, MA",History,2023,2.75,No concerns this term.
+U86410147,Amara,Nguyen,amara.nguyen@students.example.edu,(976) 785-7902,"818 Maple Street, Cambridge, MA",Mechanical Engineering,2021,,
+U14580646,Alice,Petrov,alice.petrov@students.example.edu,(631) 599-6738,,History,2022,3.42,Student U14580646 requested an extension; call guardian at (631) 599-6738.
+U86467725,Diego,Suzuki,diego.suzuki@students.example.edu,(775) 356-2037,"706 Birch Lane, Cambridge, MA",Data Science,2024,2.01,
+U71032590,Fatima,Muller,,(762) 423-5233,"154 Oak Avenue, Springfield, MA",Biology,2022,3.34,Student U71032590 requested an extension; call guardian at (762) 423-5233.
+U71604027,Fatima,Garcia,fatima.garcia@students.example.edu,(502) 421-2501,"106 Birch Lane, Springfield, MA",Biology,2023,,Fatima Garcia reached out via fatima.garcia@students.example.edu about the DS+X club.
+U14739184,Alice,Garcia,alice.garcia@students.example.edu,(803) 577-3816,"636 Elm Road, Lowell, MA",Psychology,2022,3.77,Alice Garcia reached out via alice.garcia@students.example.edu about the DS+X club.
+U31479294,Liang,Johnson,liang.johnson@students.example.edu,(419) 411-7988,"325 Elm Road, Springfield, MA",Psychology,2021,3.57,Student U31479294 requested an extension; call guardian at (419) 411-7988.
+U74838461,Priya,Petrov,priya.petrov@students.example.edu,(804) 658-3680,"187 Birch Lane, Springfield, MA",Economics,2024,2.68,"Priya moved to 187 Birch Lane, Springfield, MA; update records."
+U91203203,Ivan,Suzuki,ivan.suzuki@students.example.edu,(373) 241-2970,"934 Birch Lane, Cambridge, MA",Psychology,2022,2.08,"Advising note: Ivan Suzuki is excelling, recommend TA role."
+U76872758,Marcus,Johnson,marcus.johnson@students.example.edu,(631) 220-9398,"643 Willow Way, Lowell, MA",Economics,2024,3.73,Student U76872758 requested an extension; call guardian at (631) 220-9398.
+U18531076,Priya,Lindqvist,priya.lindqvist@students.example.edu,,"476 Oak Avenue, Cambridge, MA",Economics,2024,2.14,"Priya moved to 476 Oak Avenue, Cambridge, MA; update records."
+U14580646,Alice,Petrov,alice.petrov@students.example.edu,(631) 599-6738,"999 Cedar Drive, Worcester, MA",History,2024,2.91,Student U14580646 requested an extension; call guardian at (631) 599-6738.
+U66713732,Hana,Smith,hana.smith@students.example.edu,(283) 630-5542,"492 Birch Lane, Springfield, MA",Data Science,2024,2.36,No concerns this term.
+U64013250,Oscar,Muller,oscar.muller@students.example.edu,(942) 547-3517,"836 Maple Street, Lowell, MA",Mechanical Engineering,2024,2.79,Left voicemail for Oscar at (942) 547-3517 regarding tuition.
+U74838461,Priya,Petrov,,(804) 658-3680,"187 Birch Lane, Springfield, MA",Psychology,2021,2.09,Student U74838461 requested an extension; call guardian at (804) 658-3680.
+U11875268,Priya,Patel,priya.patel@students.example.edu,(562) 861-9395,"572 Willow Way, Cambridge, MA",Biology,2021,,
+U20901273,Sophie,Rahman,sophie.rahman@students.example.edu,(697) 691-6749,,History,2023,3.97,Student U20901273 requested an extension; call guardian at (697) 691-6749.
+U71032590,Fatima,Muller,fatima.muller@students.example.edu,(762) 423-5233,"154 Oak Avenue, Springfield, MA",Biology,2021,3.3,Fatima Muller reached out via fatima.muller@students.example.edu about the DS+X club.
+U43008585,Amara,Chen,amara.chen@students.example.edu,(522) 235-5853,"457 Birch Lane, Amherst, MA",Economics,2021,2.32,
+U81347891,Oscar,Garcia,oscar.garcia@students.example.edu,(861) 402-6688,"802 Cedar Drive, Lowell, MA",Data Science,2023,2.94,Oscar Garcia reached out via oscar.garcia@students.example.edu about the DS+X club.
+U29538737,Amara,Smith,amara.smith@students.example.edu,(856) 516-2922,"636 Maple Street, Springfield, MA",Economics,2022,2.27,"Amara moved to 636 Maple Street, Springfield, MA; update records."
+U60599970,Liang,Nguyen,liang.nguyen@students.example.edu,(702) 397-1606,"78 Cedar Drive, Amherst, MA",Computer Science,2022,,Student U60599970 requested an extension; call guardian at (702) 397-1606.
+U82721167,Liang,Rahman,liang.rahman@students.example.edu,(316) 440-8712,"819 Spruce Boulevard, Lowell, MA",Economics,2021,3.41,"Liang moved to 819 Spruce Boulevard, Lowell, MA; update records."
+U82721167,Liang,Rahman,liang.rahman@students.example.edu,(316) 440-8712,"819 Spruce Boulevard, Lowell, MA",Computer Science,2021,3.85,No concerns this term.
+U89546511,Alice,Lindqvist,alice.lindqvist@students.example.edu,(298) 333-3500,"72 Pine Court, Cambridge, MA",Data Science,2021,3.28,Alice Lindqvist reached out via alice.lindqvist@students.example.edu about the DS+X club.
+U86467725,Diego,Suzuki,diego.suzuki@students.example.edu,(775) 356-2037,,Economics,2021,,"Diego moved to 706 Birch Lane, Cambridge, MA; update records."
+U66713732,Hana,Smith,hana.smith@students.example.edu,(283) 630-5542,"492 Birch Lane, Springfield, MA",History,2024,3.37,No concerns this term.
+U86778819,Oscar,Chen,oscar.chen@students.example.edu,(488) 876-6150,"587 Oak Avenue, Amherst, MA",Mechanical Engineering,2021,2.14,Student U86778819 requested an extension; call guardian at (488) 876-6150.
+U82721167,Liang,Rahman,liang.rahman@students.example.edu,(316) 440-8712,,Mechanical Engineering,2022,2.44,
+U64013250,Oscar,Muller,oscar.muller@students.example.edu,(942) 547-3517,"836 Maple Street, Lowell, MA",Data Science,2022,2.04,Met with Oscar Muller about the capstone; follow up at oscar.muller@students.example.edu.
+U76872638,Liang,Lindqvist,liang.lindqvist@students.example.edu,(216) 749-8006,"834 Birch Lane, Amherst, MA",Biology,2021,2.3,"Liang moved to 834 Birch Lane, Amherst, MA; update records."
+U81347891,Oscar,Garcia,oscar.garcia@students.example.edu,(861) 402-6688,"802 Cedar Drive, Lowell, MA",History,2024,3.9,Student U81347891 requested an extension; call guardian at (861) 402-6688.
+U18215793,Diego,Smith,diego.smith@students.example.edu,(954) 878-3331,"267 Maple Street, Springfield, MA",Mechanical Engineering,2023,3.07,Left voicemail for Diego at (954) 878-3331 regarding tuition.
+U86410147,Amara,Nguyen,amara.nguyen@students.example.edu,(976) 785-7902,"818 Maple Street, Cambridge, MA",Psychology,2024,,
+U46985635,Alice,Lindqvist,alice.lindqvist@students.example.edu,,"112 Pine Court, Lowell, MA",Data Science,2021,3.22,No concerns this term.
+U65627751,Liang,Suzuki,,(369) 831-7760,"72 Elm Road, Springfield, MA",Economics,2024,2.04,No concerns this term.
+U71604027,Fatima,Garcia,fatima.garcia@students.example.edu,(502) 421-2501,"106 Birch Lane, Springfield, MA",Biology,2021,3.93,Met with Fatima Garcia about the capstone; follow up at fatima.garcia@students.example.edu.
+U14580646,Alice,Petrov,,(631) 599-6738,,History,2023,2.34,
+U64013250,Oscar,Muller,oscar.muller@students.example.edu,(942) 547-3517,"836 Maple Street, Lowell, MA",Biology,2024,3.99,Left voicemail for Oscar at (942) 547-3517 regarding tuition.
+U80100147,Diego,Patel,diego.patel@students.example.edu,,"860 Oak Avenue, Lowell, MA",Psychology,2023,3.73,"Advising note: Diego Patel is excelling, recommend TA role."
+U20901273,Sophie,Rahman,sophie.rahman@students.example.edu,(697) 691-6749,"734 Maple Street, Amherst, MA",Psychology,2021,3.81,
+U11875268,Priya,Patel,priya.patel@students.example.edu,(562) 861-9395,"572 Willow Way, Cambridge, MA",Economics,2024,3.39,Student U11875268 requested an extension; call guardian at (562) 861-9395.
+U27128722,Amara,Muller,amara.muller@students.example.edu,(742) 481-9563,"557 Willow Way, Worcester, MA",Data Science,2023,2.59,No concerns this term.
+U29183104,Sophie,Johnson,sophie.johnson@students.example.edu,(361) 343-2817,"629 Willow Way, Springfield, MA",Mechanical Engineering,2024,3.95,Met with Sophie Johnson about the capstone; follow up at sophie.johnson@students.example.edu.
+U12291982,Sophie,Johnson,sophie.johnson@students.example.edu,(806) 514-7942,"389 Pine Court, Worcester, MA",Computer Science,2023,3.51,Left voicemail for Sophie at (806) 514-7942 regarding tuition.
+U43635717,Ivan,Muller,ivan.muller@students.example.edu,(313) 796-2299,"850 Oak Avenue, Cambridge, MA",Computer Science,2024,,
+U11709388,Diego,Suzuki,diego.suzuki@students.example.edu,(427) 958-1931,"552 Spruce Boulevard, Cambridge, MA",Economics,2022,2.8,Student U11709388 requested an extension; call guardian at (427) 958-1931.
+U28684756,Alice,Suzuki,alice.suzuki@students.example.edu,(540) 772-8052,"255 Birch Lane, Cambridge, MA",History,2021,3.31,Met with Alice Suzuki about the capstone; follow up at alice.suzuki@students.example.edu.
+U29538737,Amara,Smith,amara.smith@students.example.edu,,"636 Maple Street, Springfield, MA",History,2021,,"Advising note: Amara Smith is excelling, recommend TA role."
+U27340290,Hana,Suzuki,hana.suzuki@students.example.edu,(565) 589-6085,"851 Maple Street, Amherst, MA",Data Science,2024,3.01,"Advising note: Hana Suzuki is excelling, recommend TA role."
+U60623819,Alice,Chen,alice.chen@students.example.edu,(224) 345-7582,"209 Maple Street, Worcester, MA",Data Science,2021,2.12,Left voicemail for Alice at (224) 345-7582 regarding tuition.
+U63113322,Ivan,Rahman,,(825) 895-6917,"301 Oak Avenue, Springfield, MA",Psychology,2021,2.87,Ivan Rahman reached out via ivan.rahman@students.example.edu about the DS+X club.
+U99449529,Amara,Rahman,amara.rahman@students.example.edu,(586) 585-1274,,Psychology,2024,3.72,No concerns this term.
+U18531076,Priya,Lindqvist,,(969) 802-9429,"476 Oak Avenue, Cambridge, MA",Psychology,2023,2.03,Met with Priya Lindqvist about the capstone; follow up at priya.lindqvist@students.example.edu.
+U46733931,Liang,Muller,liang.muller@students.example.edu,(549) 364-7349,"44 Willow Way, Amherst, MA",Computer Science,2021,3.8,Left voicemail for Liang at (549) 364-7349 regarding tuition.
+U71315122,Alice,Suzuki,alice.suzuki@students.example.edu,(819) 621-5778,"698 Pine Court, Amherst, MA",Data Science,2021,3.13,
+U46733931,Liang,Muller,liang.muller@students.example.edu,(549) 364-7349,"44 Willow Way, Amherst, MA",Biology,2024,2.53,"Liang moved to 44 Willow Way, Amherst, MA; update records."
+U82721167,Liang,Rahman,liang.rahman@students.example.edu,(316) 440-8712,"819 Spruce Boulevard, Lowell, MA",History,2022,2.72,No concerns this term.
+U60599970,Liang,Nguyen,liang.nguyen@students.example.edu,(702) 397-1606,"78 Cedar Drive, Amherst, MA",Computer Science,2023,2.91,Student U60599970 requested an extension; call guardian at (702) 397-1606.
+U64013250,Oscar,Muller,oscar.muller@students.example.edu,(942) 547-3517,"836 Maple Street, Lowell, MA",Economics,2024,2.8,Left voicemail for Oscar at (942) 547-3517 regarding tuition.
+U43635717,Ivan,Muller,,(313) 796-2299,,Psychology,2024,2.83,Student U43635717 requested an extension; call guardian at (313) 796-2299.
+U76171250,Marcus,Petrov,marcus.petrov@students.example.edu,(443) 536-9937,"146 Oak Avenue, Amherst, MA",Biology,2021,,Left voicemail for Marcus at (443) 536-9937 regarding tuition.
+U28676624,Priya,Lindqvist,priya.lindqvist@students.example.edu,(949) 501-8682,,Mechanical Engineering,2021,2.93,Left voicemail for Priya at (949) 501-8682 regarding tuition.
+U81347891,Oscar,Garcia,oscar.garcia@students.example.edu,(861) 402-6688,"802 Cedar Drive, Lowell, MA",Data Science,2023,2.41,Left voicemail for Oscar at (861) 402-6688 regarding tuition.
+U81347891,Oscar,Garcia,oscar.garcia@students.example.edu,(861) 402-6688,"802 Cedar Drive, Lowell, MA",Mechanical Engineering,2023,3.57,Left voicemail for Oscar at (861) 402-6688 regarding tuition.
+U31479294,Liang,Johnson,liang.johnson@students.example.edu,(419) 411-7988,"325 Elm Road, Springfield, MA",Biology,2023,2.16,
+U43635717,Ivan,Muller,ivan.muller@students.example.edu,(313) 796-2299,"850 Oak Avenue, Cambridge, MA",Data Science,2024,3.2,Ivan Muller reached out via ivan.muller@students.example.edu about the DS+X club.
+U71032590,Fatima,Muller,fatima.muller@students.example.edu,(762) 423-5233,"154 Oak Avenue, Springfield, MA",Psychology,2023,2.19,Student U71032590 requested an extension; call guardian at (762) 423-5233.
+U79802283,Liang,Suzuki,liang.suzuki@students.example.edu,(400) 796-2872,"85 Oak Avenue, Amherst, MA",Data Science,2022,3.28,Student U79802283 requested an extension; call guardian at (400) 796-2872.
+U45624891,Fatima,Muller,fatima.muller@students.example.edu,(288) 431-2019,"885 Spruce Boulevard, Amherst, MA",History,2024,3.93,
+U86467725,Diego,Suzuki,diego.suzuki@students.example.edu,(775) 356-2037,"706 Birch Lane, Cambridge, MA",History,2023,3.01,Met with Diego Suzuki about the capstone; follow up at diego.suzuki@students.example.edu.
+U11709388,Diego,Suzuki,,(427) 958-1931,"552 Spruce Boulevard, Cambridge, MA",Data Science,2024,3.71,Student U11709388 requested an extension; call guardian at (427) 958-1931.
+U67745743,Diego,Suzuki,diego.suzuki@students.example.edu,(264) 667-1051,"401 Willow Way, Lowell, MA",Economics,2024,2.57,Student U67745743 requested an extension; call guardian at (264) 667-1051.
+U99041816,Oscar,Okafor,oscar.okafor@students.example.edu,(570) 744-4595,"763 Cedar Drive, Amherst, MA",History,2021,3.28,"Advising note: Oscar Okafor is excelling, recommend TA role."
+U94816063,Ivan,Smith,ivan.smith@students.example.edu,(236) 723-5330,"279 Willow Way, Cambridge, MA",Data Science,2024,2.53,Student U94816063 requested an extension; call guardian at (236) 723-5330.
+U43635717,Ivan,Muller,ivan.muller@students.example.edu,(313) 796-2299,"850 Oak Avenue, Cambridge, MA",Economics,2024,,Student U43635717 requested an extension; call guardian at (313) 796-2299.
+U28676624,Priya,Lindqvist,priya.lindqvist@students.example.edu,(949) 501-8682,"919 Cedar Drive, Springfield, MA",Mechanical Engineering,2024,3.65,Left voicemail for Priya at (949) 501-8682 regarding tuition.
+U28684756,Alice,Suzuki,alice.suzuki@students.example.edu,,"255 Birch Lane, Cambridge, MA",Computer Science,2022,2.37,"Advising note: Alice Suzuki is excelling, recommend TA role."
+U46733931,Liang,Muller,liang.muller@students.example.edu,(549) 364-7349,"44 Willow Way, Amherst, MA",Economics,2022,3.73,
+U86467725,Diego,Suzuki,diego.suzuki@students.example.edu,(775) 356-2037,,Data Science,2024,3.11,Met with Diego Suzuki about the capstone; follow up at diego.suzuki@students.example.edu.
+U76872638,Liang,Lindqvist,liang.lindqvist@students.example.edu,(216) 749-8006,"834 Birch Lane, Amherst, MA",Biology,2021,2.59,Liang Lindqvist reached out via liang.lindqvist@students.example.edu about the DS+X club.
+U86778819,Oscar,Chen,,(488) 876-6150,"587 Oak Avenue, Amherst, MA",Computer Science,2021,2.7,Oscar Chen reached out via oscar.chen@students.example.edu about the DS+X club.
+U86467725,Diego,Suzuki,diego.suzuki@students.example.edu,(775) 356-2037,"706 Birch Lane, Cambridge, MA",Computer Science,2023,2.69,"Advising note: Diego Suzuki is excelling, recommend TA role."
+U18531076,Priya,Lindqvist,priya.lindqvist@students.example.edu,(969) 802-9429,"476 Oak Avenue, Cambridge, MA",Data Science,2022,2.15,
+U14533765,Priya,Smith,priya.smith@students.example.edu,(257) 845-7819,"403 Maple Street, Worcester, MA",Mechanical Engineering,2024,3.76,Left voicemail for Priya at (257) 845-7819 regarding tuition.
+U71269734,Noah,Johnson,noah.johnson@students.example.edu,,"853 Birch Lane, Worcester, MA",Mechanical Engineering,2024,3.85,Met with Noah Johnson about the capstone; follow up at noah.johnson@students.example.edu.
+U63113322,Ivan,Rahman,,(825) 895-6917,"301 Oak Avenue, Springfield, MA",Computer Science,2021,2.57,Met with Ivan Rahman about the capstone; follow up at ivan.rahman@students.example.edu.
+U80100147,Diego,Patel,diego.patel@students.example.edu,(893) 749-4379,"860 Oak Avenue, Lowell, MA",Data Science,2024,2.86,
+U38232962,Amara,Chen,amara.chen@students.example.edu,(976) 866-9766,,History,2021,2.66,"Amara moved to 166 Elm Road, Lowell, MA; update records."
+U18531076,Priya,Lindqvist,priya.lindqvist@students.example.edu,(969) 802-9429,"476 Oak Avenue, Cambridge, MA",Computer Science,2021,3.68,Met with Priya Lindqvist about the capstone; follow up at priya.lindqvist@students.example.edu.
+U18531076,Priya,Lindqvist,priya.lindqvist@students.example.edu,,"476 Oak Avenue, Cambridge, MA",Economics,2022,2.86,Priya Lindqvist reached out via priya.lindqvist@students.example.edu about the DS+X club.
+U27340290,Hana,Suzuki,hana.suzuki@students.example.edu,(565) 589-6085,"851 Maple Street, Amherst, MA",Biology,2023,3.89,No concerns this term.
+U71269734,Noah,Johnson,noah.johnson@students.example.edu,(533) 492-1564,"853 Birch Lane, Worcester, MA",History,2023,2.0,"Noah moved to 853 Birch Lane, Worcester, MA; update records."
+U23282535,Hana,Lindqvist,hana.lindqvist@students.example.edu,(798) 935-3091,"118 Willow Way, Lowell, MA",Economics,2023,3.17,"Hana moved to 118 Willow Way, Lowell, MA; update records."
+U14971794,Noah,Nguyen,,,,Mechanical Engineering,2022,2.22,No concerns this term.
+U82721167,Liang,Rahman,liang.rahman@students.example.edu,(316) 440-8712,"819 Spruce Boulevard, Lowell, MA",Psychology,2022,2.5,No concerns this term.
+U18531076,Priya,Lindqvist,priya.lindqvist@students.example.edu,(969) 802-9429,,Economics,2023,3.93,"Priya moved to 476 Oak Avenue, Cambridge, MA; update records."
+U86410147,Amara,Nguyen,amara.nguyen@students.example.edu,,"818 Maple Street, Cambridge, MA",Biology,2022,,Left voicemail for Amara at (976) 785-7902 regarding tuition.
+U99041816,Oscar,Okafor,,(570) 744-4595,"763 Cedar Drive, Amherst, MA",History,2021,2.47,"Oscar moved to 763 Cedar Drive, Amherst, MA; update records."
+U67061834,Liang,Suzuki,liang.suzuki@students.example.edu,(670) 422-3613,,Data Science,2022,2.95,"Liang moved to 573 Elm Road, Lowell, MA; update records."
+U82721167,Liang,Rahman,liang.rahman@students.example.edu,,"819 Spruce Boulevard, Lowell, MA",Data Science,2023,2.74,"Advising note: Liang Rahman is excelling, recommend TA role."
+U82316252,Fatima,Muller,fatima.muller@students.example.edu,(484) 907-2459,"394 Elm Road, Lowell, MA",Biology,2022,3.8,Student U82316252 requested an extension; call guardian at (484) 907-2459.
+U28684756,Alice,Suzuki,alice.suzuki@students.example.edu,(540) 772-8052,"255 Birch Lane, Cambridge, MA",Psychology,2024,3.58,No concerns this term.
+U65627751,Liang,Suzuki,liang.suzuki@students.example.edu,(369) 831-7760,"72 Elm Road, Springfield, MA",Psychology,2022,3.29,Liang Suzuki reached out via liang.suzuki@students.example.edu about the DS+X club.
+U63113322,Ivan,Rahman,,(825) 895-6917,,Data Science,2021,2.86,Ivan Rahman reached out via ivan.rahman@students.example.edu about the DS+X club.
+U20901273,Sophie,Rahman,sophie.rahman@students.example.edu,,"734 Maple Street, Amherst, MA",Data Science,2022,3.01,No concerns this term.
+U81347891,Oscar,Garcia,oscar.garcia@students.example.edu,,,Mechanical Engineering,2022,2.29,"Oscar moved to 802 Cedar Drive, Lowell, MA; update records."
+U76872638,Liang,Lindqvist,liang.lindqvist@students.example.edu,(216) 749-8006,"834 Birch Lane, Amherst, MA",Mechanical Engineering,2023,3.3,No concerns this term.
+U14533765,Priya,Smith,priya.smith@students.example.edu,(257) 845-7819,"403 Maple Street, Worcester, MA",Psychology,2021,2.13,"Advising note: Priya Smith is excelling, recommend TA role."
+U64013250,Oscar,Muller,oscar.muller@students.example.edu,(942) 547-3517,"836 Maple Street, Lowell, MA",Computer Science,2021,2.14,Oscar Muller reached out via oscar.muller@students.example.edu about the DS+X club.
+U67745743,Diego,Suzuki,,(264) 667-1051,"401 Willow Way, Lowell, MA",History,2024,2.63,Left voicemail for Diego at (264) 667-1051 regarding tuition.
+U74838461,Priya,Petrov,,(804) 658-3680,"187 Birch Lane, Springfield, MA",Computer Science,2022,2.35,Student U74838461 requested an extension; call guardian at (804) 658-3680.
+U18531076,Priya,Lindqvist,priya.lindqvist@students.example.edu,(969) 802-9429,"476 Oak Avenue, Cambridge, MA",Economics,2023,3.77,Met with Priya Lindqvist about the capstone; follow up at priya.lindqvist@students.example.edu.
+U14533765,Priya,Smith,priya.smith@students.example.edu,(257) 845-7819,"403 Maple Street, Worcester, MA",Economics,2023,2.19,"Advising note: Priya Smith is excelling, recommend TA role."
+U11875268,Priya,Patel,priya.patel@students.example.edu,(562) 861-9395,"572 Willow Way, Cambridge, MA",Mechanical Engineering,2024,3.73,Met with Priya Patel about the capstone; follow up at priya.patel@students.example.edu.
+U14971794,Noah,Nguyen,noah.nguyen@students.example.edu,(465) 313-5056,,History,2024,,"Noah moved to 781 Spruce Boulevard, Cambridge, MA; update records."
+U71604027,Fatima,Garcia,fatima.garcia@students.example.edu,(502) 421-2501,"106 Birch Lane, Springfield, MA",Biology,2022,2.24,"Advising note: Fatima Garcia is excelling, recommend TA role."
+U89546511,Alice,Lindqvist,,(298) 333-3500,"72 Pine Court, Cambridge, MA",History,2023,3.64,No concerns this term.
+U86778819,Oscar,Chen,oscar.chen@students.example.edu,(488) 876-6150,"587 Oak Avenue, Amherst, MA",Computer Science,2023,,Met with Oscar Chen about the capstone; follow up at oscar.chen@students.example.edu.
+U28684756,Alice,Suzuki,alice.suzuki@students.example.edu,,"255 Birch Lane, Cambridge, MA",Mechanical Engineering,2024,2.24,No concerns this term.
+U14580646,Alice,Petrov,alice.petrov@students.example.edu,(631) 599-6738,"999 Cedar Drive, Worcester, MA",Biology,2021,,Left voicemail for Alice at (631) 599-6738 regarding tuition.
+U28676624,Priya,Lindqvist,,(949) 501-8682,,Economics,2021,3.36,"Priya moved to 919 Cedar Drive, Springfield, MA; update records."
+U76171250,Marcus,Petrov,marcus.petrov@students.example.edu,(443) 536-9937,"146 Oak Avenue, Amherst, MA",Psychology,2023,2.25,Met with Marcus Petrov about the capstone; follow up at marcus.petrov@students.example.edu.
+U60623819,Alice,Chen,alice.chen@students.example.edu,(224) 345-7582,"209 Maple Street, Worcester, MA",Computer Science,2022,3.93,"Advising note: Alice Chen is excelling, recommend TA role."
+U12291982,Sophie,Johnson,,,"389 Pine Court, Worcester, MA",Biology,2022,2.4,Sophie Johnson reached out via sophie.johnson@students.example.edu about the DS+X club.
+U29183104,Sophie,Johnson,,(361) 343-2817,"629 Willow Way, Springfield, MA",Psychology,2022,2.58,"Sophie moved to 629 Willow Way, Springfield, MA; update records."
+U46733931,Liang,Muller,liang.muller@students.example.edu,(549) 364-7349,"44 Willow Way, Amherst, MA",Psychology,2021,2.04,"Advising note: Liang Muller is excelling, recommend TA role."
+U23282535,Hana,Lindqvist,hana.lindqvist@students.example.edu,(798) 935-3091,"118 Willow Way, Lowell, MA",Psychology,2021,3.52,Hana Lindqvist reached out via hana.lindqvist@students.example.edu about the DS+X club.
+U45887396,Ivan,Garcia,ivan.garcia@students.example.edu,(655) 214-4621,"636 Spruce Boulevard, Cambridge, MA",History,2022,2.3,"Advising note: Ivan Garcia is excelling, recommend TA role."
+U65627751,Liang,Suzuki,liang.suzuki@students.example.edu,(369) 831-7760,"72 Elm Road, Springfield, MA",Biology,2024,2.39,
+U86410147,Amara,Nguyen,amara.nguyen@students.example.edu,,,History,2021,,"Amara moved to 818 Maple Street, Cambridge, MA; update records."
+U27340290,Hana,Suzuki,hana.suzuki@students.example.edu,,,Computer Science,2024,,No concerns this term.
+U45887396,Ivan,Garcia,ivan.garcia@students.example.edu,(655) 214-4621,"636 Spruce Boulevard, Cambridge, MA",Biology,2021,2.59,No concerns this term.
+U43008585,Amara,Chen,amara.chen@students.example.edu,(522) 235-5853,"457 Birch Lane, Amherst, MA",Data Science,2021,,Amara Chen reached out via amara.chen@students.example.edu about the DS+X club.
+U28676624,Priya,Lindqvist,priya.lindqvist@students.example.edu,(949) 501-8682,"919 Cedar Drive, Springfield, MA",Mechanical Engineering,2021,,Student U28676624 requested an extension; call guardian at (949) 501-8682.
+U14533765,Priya,Smith,priya.smith@students.example.edu,(257) 845-7819,"403 Maple Street, Worcester, MA",Economics,2021,2.2,Student U14533765 requested an extension; call guardian at (257) 845-7819.
+U76872758,Marcus,Johnson,marcus.johnson@students.example.edu,(631) 220-9398,"643 Willow Way, Lowell, MA",Psychology,2022,,"Marcus moved to 643 Willow Way, Lowell, MA; update records."
+U27128722,Amara,Muller,,,"557 Willow Way, Worcester, MA",Computer Science,2023,3.34,
+U60599970,Liang,Nguyen,,(702) 397-1606,"78 Cedar Drive, Amherst, MA",Psychology,2022,,"Advising note: Liang Nguyen is excelling, recommend TA role."
+U99449529,Amara,Rahman,,(586) 585-1274,"179 Oak Avenue, Cambridge, MA",Computer Science,2022,3.67,Student U99449529 requested an extension; call guardian at (586) 585-1274.
+U94816063,Ivan,Smith,ivan.smith@students.example.edu,(236) 723-5330,"279 Willow Way, Cambridge, MA",Data Science,2022,2.71,"Advising note: Ivan Smith is excelling, recommend TA role."
+U63113322,Ivan,Rahman,ivan.rahman@students.example.edu,(825) 895-6917,"301 Oak Avenue, Springfield, MA",History,2022,3.44,Student U63113322 requested an extension; call guardian at (825) 895-6917.
+U77216238,Marcus,Garcia,marcus.garcia@students.example.edu,(587) 542-2624,,Data Science,2024,3.43,Student U77216238 requested an extension; call guardian at (587) 542-2624.
+U67745743,Diego,Suzuki,diego.suzuki@students.example.edu,(264) 667-1051,"401 Willow Way, Lowell, MA",Data Science,2021,3.44,Diego Suzuki reached out via diego.suzuki@students.example.edu about the DS+X club.
+U65627751,Liang,Suzuki,,(369) 831-7760,"72 Elm Road, Springfield, MA",Data Science,2022,3.63,Liang Suzuki reached out via liang.suzuki@students.example.edu about the DS+X club.
+U46996658,Amara,Johnson,amara.johnson@students.example.edu,(405) 570-3401,"637 Oak Avenue, Worcester, MA",Mechanical Engineering,2024,2.43,Student U46996658 requested an extension; call guardian at (405) 570-3401.
+U46985635,Alice,Lindqvist,alice.lindqvist@students.example.edu,(786) 487-6419,"112 Pine Court, Lowell, MA",Psychology,2024,2.68,Student U46985635 requested an extension; call guardian at (786) 487-6419.
+U14580646,Alice,Petrov,alice.petrov@students.example.edu,(631) 599-6738,"999 Cedar Drive, Worcester, MA",Data Science,2023,,No concerns this term.
+U29679063,Alice,Chen,alice.chen@students.example.edu,(308) 950-6497,"970 Willow Way, Worcester, MA",Psychology,2024,2.84,Alice Chen reached out via alice.chen@students.example.edu about the DS+X club.
+U45624891,Fatima,Muller,fatima.muller@students.example.edu,(288) 431-2019,"885 Spruce Boulevard, Amherst, MA",Data Science,2024,,Fatima Muller reached out via fatima.muller@students.example.edu about the DS+X club.
+U60599970,Liang,Nguyen,,(702) 397-1606,"78 Cedar Drive, Amherst, MA",Psychology,2023,2.5,Left voicemail for Liang at (702) 397-1606 regarding tuition.
+U14580646,Alice,Petrov,alice.petrov@students.example.edu,(631) 599-6738,,Biology,2022,2.67,"Advising note: Alice Petrov is excelling, recommend TA role."
+U31479294,Liang,Johnson,liang.johnson@students.example.edu,(419) 411-7988,"325 Elm Road, Springfield, MA",Mechanical Engineering,2021,2.3,"Advising note: Liang Johnson is excelling, recommend TA role."
+U43965454,Fatima,Garcia,fatima.garcia@students.example.edu,(302) 631-3702,"923 Maple Street, Amherst, MA",Economics,2023,2.85,Fatima Garcia reached out via fatima.garcia@students.example.edu about the DS+X club.
+U23282535,Hana,Lindqvist,hana.lindqvist@students.example.edu,(798) 935-3091,"118 Willow Way, Lowell, MA",Biology,2021,3.56,"Advising note: Hana Lindqvist is excelling, recommend TA role."
+U76872758,Marcus,Johnson,,(631) 220-9398,,Biology,2024,2.82,

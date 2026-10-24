@@ -1,0 +1,16 @@
+student_id,first_name,last_name,email,phone,address,major,enrollment_year,gpa,notes
+U48794285,Diego,Rahman,diego.rahman@students.example.edu,(230) 271-2768,"411 Oak Avenue, Lowell, MA",Computer Science,2024,2.15,
+U48794285,Diego,Rahman,diego.rahman@students.example.edu,,,Data Science,2022,2.49,Diego Rahman reached out via diego.rahman@students.example.edu about the DS+X club.
+U12267000,Amara,Johnson,amara.johnson@students.example.edu,(901) 200-4498,"215 Maple Street, Amherst, MA",Biology,2022,2.84,
+U36215591,Noah,Lindqvist,noah.lindqvist@students.example.edu,(731) 439-5819,"512 Maple Street, Cambridge, MA",Biology,2022,,Met with Noah Lindqvist about the capstone; follow up at noah.lindqvist@students.example.edu.
+U36215591,Noah,Lindqvist,,(731) 439-5819,,Psychology,2023,3.66,Met with Noah Lindqvist about the capstone; follow up at noah.lindqvist@students.example.edu.
+U47334392,Noah,Suzuki,noah.suzuki@students.example.edu,(616) 764-2363,"725 Cedar Drive, Lowell, MA",History,2024,2.25,"Noah moved to 725 Cedar Drive, Lowell, MA; update records."
+U36215591,Noah,Lindqvist,noah.lindqvist@students.example.edu,(731) 439-5819,"512 Maple Street, Cambridge, MA",Psychology,2022,3.45,Student U36215591 requested an extension; call guardian at (731) 439-5819.
+U12267000,Amara,Johnson,amara.johnson@students.example.edu,,"215 Maple Street, Amherst, MA",Data Science,2024,2.09,Left voicemail for Amara at (901) 200-4498 regarding tuition.
+U48794285,Diego,Rahman,diego.rahman@students.example.edu,(230) 271-2768,"411 Oak Avenue, Lowell, MA",History,2024,,Diego Rahman reached out via diego.rahman@students.example.edu about the DS+X club.
+U69940718,Priya,Johnson,priya.johnson@students.example.edu,,"552 Maple Street, Springfield, MA",Biology,2022,3.5,
+U97767996,Amara,Smith,amara.smith@students.example.edu,(956) 830-3580,"639 Maple Street, Springfield, MA",Economics,2022,3.78,Met with Amara Smith about the capstone; follow up at amara.smith@students.example.edu.
+U72498494,Noah,Rahman,noah.rahman@students.example.edu,(662) 720-4111,,Computer Science,2023,3.4,Met with Noah Rahman about the capstone; follow up at noah.rahman@students.example.edu.
+U47334392,Noah,Suzuki,noah.suzuki@students.example.edu,(616) 764-2363,,Data Science,2021,2.91,Student U47334392 requested an extension; call guardian at (616) 764-2363.
+U47334392,Noah,Suzuki,noah.suzuki@students.example.edu,(616) 764-2363,"725 Cedar Drive, Lowell, MA",Data Science,2024,3.8,"Noah moved to 725 Cedar Drive, Lowell, MA; update records."
+U48794285,Diego,Rahman,diego.rahman@students.example.edu,,"411 Oak Avenue, Lowell, MA",History,2021,3.22,"Advising note: Diego Rahman is excelling, recommend TA role."
