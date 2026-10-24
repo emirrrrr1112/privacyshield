@@ -18,13 +18,36 @@ from __future__ import annotations
 import random
 from typing import List, Tuple
 
-FIRST = ["Alice", "Marcus", "Priya", "Diego", "Sophie", "Liang", "Amara",
-         "Noah", "Fatima", "Oscar", "Hana", "Ivan"]
-LAST = ["Nguyen", "Johnson", "Patel", "Garcia", "Muller", "Chen", "Okafor",
-        "Smith", "Rahman", "Lindqvist", "Suzuki", "Petrov"]
-STREETS = ["Maple Street", "Oak Avenue", "Birch Lane", "Elm Road", "Cedar Drive",
-           "Pine Court", "Willow Way", "Spruce Boulevard"]
-CITIES = ["Cambridge", "Worcester", "Lowell", "Amherst", "Springfield"]
+FIRST = [
+    "Alice", "Marcus", "Priya", "Diego", "Sophie", "Liang", "Amara", "Noah",
+    "Fatima", "Oscar", "Hana", "Ivan", "Leila", "Mateo", "Yuki", "Aisha",
+    "Owen", "Nadia", "Kofi", "Elena", "Rohan", "Mia", "Tariq", "Grace",
+    "Hassan", "Clara", "Jamal", "Ingrid", "Santiago", "Wen", "Zara", "Lucas",
+    "Freya", "Omar", "Lucia", "Kenji", "Nia", "Paulo", "Sana", "Theo",
+    "Amelia", "Dev", "Chloe", "Rami", "Esther", "Finn", "Maya", "Bruno",
+    "Layla", "Sven", "Keiko", "Andre", "Simone", "Yusuf", "Petra", "Hugo",
+]
+LAST = [
+    "Nguyen", "Johnson", "Patel", "Garcia", "Muller", "Chen", "Okafor",
+    "Smith", "Rahman", "Lindqvist", "Suzuki", "Petrov", "Kim", "Rossi",
+    "Andersson", "Haddad", "Silva", "Nakamura", "Olsen", "Dubois", "Mbeki",
+    "Novak", "Reyes", "Fischer", "Costa", "Ahmed", "Larsson", "Mori",
+    "Ivanov", "Santos", "Khan", "Weber", "Moreau", "Yamamoto", "Diallo",
+    "Romano", "Jensen", "Park", "Hoffmann", "Ferreira", "Tanaka", "Abebe",
+    "Kowalski", "Mendez", "Lindberg", "Osei", "Vargas", "Schmidt", "Lopez",
+    "Takahashi",
+]
+STREETS = [
+    "Maple Street", "Oak Avenue", "Birch Lane", "Elm Road", "Cedar Drive",
+    "Pine Court", "Willow Way", "Spruce Boulevard", "Chestnut Street",
+    "Aspen Terrace", "Magnolia Drive", "Sycamore Lane", "Juniper Court",
+    "Linden Avenue", "Poplar Road", "Hawthorn Way", "Dogwood Circle",
+    "Redwood Place", "Beech Street", "Walnut Avenue",
+]
+CITIES = [
+    "Cambridge", "Worcester", "Lowell", "Amherst", "Springfield", "Boston",
+    "Somerville", "Medford", "Newton", "Quincy", "Brookline", "Waltham",
+]
 MAJORS = ["Data Science", "Biology", "Economics", "Computer Science",
           "History", "Mechanical Engineering", "Psychology"]
 
