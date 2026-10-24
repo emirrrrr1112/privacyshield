@@ -15,6 +15,73 @@ dedicated Restore page recovers the original values when you have the key.
 
 ---
 
+## Why this is useful
+
+**Central claim:** *We reduce the sensitive information shared with external
+tools while preserving useful data for student research.*
+
+Cloud services already protect data well — for example, **Anthropic** (the
+company behind the **Claude** product) encrypts stored data and connections in
+transit, restricts training use of commercial/API data by default, and enforces
+retention windows. Those protections secure data **in storage and transmission**
+— they do **not** strip identifiers out of the content you submit. So if you
+upload a raw student CSV to *any* external tool, that service still receives the
+names, emails, phones, addresses, and student IDs inside it.
+
+PrivacyShield closes that gap by running **locally, before upload**: it detects
+and tokenizes PII on your machine so the data you share carries tokens instead
+of real identifiers — while staying analytically useful (the same student keeps
+the same token, so joins and counts still work).
+
+> These are limitations and remaining risks of *any* upload workflow — **not** a
+> claim that Anthropic or any provider has a security vulnerability. We do not
+> claim to anonymize data or to outperform a provider's security system.
+
+### The specific gaps PrivacyShield addresses
+
+| Remaining risk when sharing student data | What PrivacyShield does |
+|---|---|
+| Uploading raw data hands identifiers to the external service for processing. | Detect + **tokenize locally, before upload**. |
+| General detectors miss university-specific identifiers. | A **custom student-ID recognizer** (e.g. `U12345678`) + **column-name rules**. |
+| Detection can miss sensitive text or flag harmless text. | A **Review screen** to confirm/override per column + a measured **baseline-vs-enhanced benchmark** (precision/recall). |
+| Removing names still leaves identifying combinations (rare major + year + town). | **Keep / tokenize / remove** per column, including dropping quasi-identifiers; honest disclosure that attribute combinations can still identify people. |
+| Reversible tokens can expose identities if the mapping/key leak. | **Authenticated encryption** of the mapping, with the key kept **separate** from the shared dataset. |
+
+### Tool roles (and their limits)
+
+PrivacyShield composes well-documented tools rather than reinventing them:
+
+| Tool | Role in PrivacyShield | Limitation (why we add to it) |
+|---|---|---|
+| [**Microsoft Presidio**](https://microsoft.github.io/presidio/) | Detects sensitive entities and supports masking/replacement. | Does **not** guarantee finding all sensitive info; custom student IDs and unusual formats need our own rules. |
+| **spaCy** | Named-entity recognition (people, orgs, locations) that Presidio uses in its pipeline. | Predictions depend on training/context; it is **not** a complete privacy or encryption system. |
+| **Faker** *(optional)* | Could generate fictional demo/test data. | Does **not** detect sensitive info; generating fake names does **not** make a dataset anonymous. *(Our bundled generator uses the stdlib, so Faker is optional.)* |
+
+> Our additions on top of these tools are the student-ID recognizer, column
+> rules, overlap-safe tokenization, encrypted reversible mapping, a review
+> workflow, and a residual re-scan — demonstrated by the benchmark below.
+
+### Baseline vs. enhanced benchmark
+
+`python benchmark.py` compares a **generic/default detector** against
+PrivacyShield's **enhanced** detector on labeled synthetic examples that stress
+student IDs, unusual formats, and PII in free-text notes:
+
+```
+entity       BASELINE                     ENHANCED
+STUDENT_ID   R=0.00  (missed all)         R=1.00   ⬆
+PHONE        R=0.00                        R=1.00   ⬆
+ADDRESS      R=0.00                        R=1.00   ⬆
+EMAIL        R=1.00                        R=1.00
+OVERALL      recall 18%                    recall 100%   (+82%)
+```
+
+Precision/recall/F1 are **detection metrics for review**, not a privacy
+guarantee. (When Presidio + spaCy are installed, the baseline automatically
+becomes real *default Presidio* for an apples-to-apples comparison.)
+
+---
+
 ## Quick start
 
 ```bash
@@ -39,6 +106,7 @@ The core library is dependency-free and ships a headless demo plus a test suite:
 
 ```bash
 python demo_cli.py          # full detect → tokenize → encrypt → restore → report
+python benchmark.py         # baseline vs. enhanced detection comparison
 python -m pytest -q         # run the automated tests
 ```
 
@@ -100,9 +168,10 @@ Reusable processing logic is fully separated from the Streamlit UI.
 privacyshield/
 ├── app.py                 # Streamlit UI (thin presentation layer)
 ├── demo_cli.py            # headless end-to-end demo
+├── benchmark.py           # baseline vs. enhanced detection benchmark
 ├── requirements.txt
-├── data/
-│   └── demo_students.csv  # synthetic demo dataset (36 rows)
+├── data/                  # synthetic demo datasets (36 → 25k rows)
+│   └── demo_students*.csv
 ├── privacyshield/         # reusable library (no Streamlit import)
 │   ├── detection.py       # column rules + regex + custom student-ID + Presidio/spaCy
 │   ├── tokenization.py    # consistent, reversible, collision-safe tokens
@@ -110,6 +179,7 @@ privacyshield/
 │   ├── pipeline.py        # review → detect → tokenize orchestration
 │   ├── restoration.py     # reverse tokenization (incl. inside free text)
 │   ├── report.py          # PII-free JSON processing report
+│   ├── evaluation.py      # baseline-vs-enhanced detection scoring (precision/recall/F1)
 │   ├── io_utils.py        # pandas-free CSV read/write
 │   └── synthetic.py       # synthetic student data generator
 └── tests/                 # pytest suite
@@ -147,13 +217,23 @@ privacyshield/
 - overlapping detections; token collisions with input values;
 - encrypted export round-trip; wrong key and corrupted/tampered mapping errors;
 - a full tokenize → encrypt → restore round-trip that is lossless;
-- a report that provably contains no original PII.
+- a report that provably contains no original PII;
+- the baseline-vs-enhanced benchmark: enhanced detects student IDs the generic
+  baseline misses, improves overall recall, and does not regress email recall.
+
+(40 tests total.)
 
 ---
 
 ## Limitations
 
-- **Not anonymization.** Reversible by design; quasi-identifiers remain.
+- **Not anonymization.** Reversible by design; quasi-identifiers remain. Even
+  with names removed, rare attribute combinations (e.g. an unusual major + year
+  + hometown) can still identify a person; use the Review step to tokenize or
+  remove such columns.
+- **Detection is imperfect** and can miss PII or flag non-PII — hence the Review
+  screen, the residual re-scan, and the honest benchmark rather than a claim of
+  perfect detection.
 - **Regex-only mode** (no spaCy/Presidio) has lower recall for names and
   locations embedded in free-text prose. Single first names inside notes may
   remain and will surface in the residual re-scan for manual review.
