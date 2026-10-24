@@ -1,0 +1,24 @@
+# PrivacyShield dependencies.
+#
+# The core processing library (privacyshield/*) runs on the Python standard
+# library alone and will work even if the optional packages below are missing
+# -- it degrades to a documented regex-only detector and a stdlib
+# authenticated-encryption fallback. Install these for the full experience and
+# the best detection coverage.
+
+# --- Required for the Streamlit UI and nicer data handling ---
+streamlit>=1.33,<2.0
+pandas>=2.0,<3.0
+
+# --- Strongly recommended: full detection + AEAD encryption ---
+cryptography>=42.0            # enables AES-256-GCM for mapping exports
+presidio-analyzer>=2.2,<3.0   # NER-backed PII detection for free text
+presidio-anonymizer>=2.2,<3.0
+spacy>=3.7,<4.0
+
+# After installing spaCy, download a model for best free-text detection:
+#   python -m spacy download en_core_web_lg   (best)
+#   python -m spacy download en_core_web_sm   (smaller, still good)
+
+# --- Test tooling ---
+pytest>=8.0
